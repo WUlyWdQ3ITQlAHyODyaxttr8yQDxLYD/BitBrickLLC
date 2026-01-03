@@ -1,0 +1,6 @@
+baseURL = "https://your-domain.com/"
+languageCode = "en-us"
+title = "BitBrickLLC"
+theme = "PaperMod"
+
+
