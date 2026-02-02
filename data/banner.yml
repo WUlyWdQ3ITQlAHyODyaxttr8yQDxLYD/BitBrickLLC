@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "BitBrickLLC"
+subtitle: |
+  Business Strategy, Government Compliance, IT Consulting</a>.
+content : |
+  We having been serving the greater DMV area since <strong>2007</strong>  
+button:
+  label : "Get Started"
+  link : "#first"
+image : "images/banner.jpg"
+
